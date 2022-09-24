@@ -1,3 +1,2 @@
-# aetherItems
-## My attempt at a random item generator.
+# aetherItems - My attempt at a random item generator.
 
